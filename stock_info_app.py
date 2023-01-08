@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from io import BytesIO
-import matplotlib.pyplot as plt
 import matplotlib
 from matplotlib import rc
 import datetime
